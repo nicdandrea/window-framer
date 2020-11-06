@@ -40,7 +40,8 @@ We recommend writing TypeScript code using Visual Studio code:
 
 That's it! Visual Studio Code will regenerate the JavaScript file every time you save.
 
-# To Do
+## To Do
+- Enable support for groups
 - Configure export options on generate
 - Allow resizing afterwards
 - UI with dropshadow option
